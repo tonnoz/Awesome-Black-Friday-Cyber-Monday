@@ -77,6 +77,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛠️ | [WP Foreman](https://wpforeman.com/black-friday/?utm_source=tonybf) | Hosted dashboard for managing many WordPress sites: backup before every update, before/after screenshot checks, uptime alerts, branded client reports. | **Lifetime deal**: 25 sites $199 / 50 $349 / 100 $599 / 250 $899 (regularly $1.99/site/mo). Nov 24 - Nov 30, 2026 |
 
 
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🔥 Productivity
@@ -252,5 +253,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 👋 | [SlapMac](https://slapmac.com/?ref=tonybf) | 30% off SlapMac for Black Friday with code: BLACKFRIDAY26 (100 coupons) First come first served! |
+
+
 
 ⬆️ | [Go to Top](#table-of-contents)
